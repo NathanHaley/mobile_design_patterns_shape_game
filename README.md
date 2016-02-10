@@ -48,7 +48,7 @@ http://www.raywenderlich.com/86053/intermediate-design-patterns-in-swift
 
 Tested with Xcode 7.2, iOS 8, and running on iPhone 6s
 
-Screenshots:
+##Screenshots:
 
 Main Screen:<br>
 <img src="mainScreen.png" alt="Main Screen" style="width: 200px;" width=200 />
