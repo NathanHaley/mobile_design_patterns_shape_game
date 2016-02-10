@@ -12,7 +12,9 @@ I have made a few modifications, namely switching most classes to value types, s
   * Builder
   * Dependency Injection
   * Strategy
-  * Chain of Responsibility, Command and Iterator
+  * Chain of Responsibility
+  * Command 
+  * Iterator
 
 ##Abstracts for demonstrated patterns:
 ###Abstract Factory
